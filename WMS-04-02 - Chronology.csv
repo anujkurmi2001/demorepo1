@@ -1,0 +1,25 @@
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,sku,msku,,
+,,,,,,,pen,cste-pen,,1
+,,,,,,,pen-blue,cste-pen,flipkart,1
+,,,,,,,pen-blue2,cste-pen-black,cste-pen-blue,2
+,,,,,,,,1,1,
+,,,,,,,,,,
+1,Every day we export relevant reports from marketplaces,,,,,,,,,
+2,"Preprocess the data - mapping marketplace localised skus against Master skus(mskus), subtract from current inventory (combos and packging goods) across different warehouses (main + FBA states)
+",,,,,,,,,
+3,Finalised Stock Count ,,,,,,,,,
+4,"Add auxilary inbounds (Returns, soft toys, photoshoot) and new inventory inbounds",,,,,,,,,
+5,"Add outbounds (sent for filling soft toys, photoshoot, gifts, sampling)",,,,,,,,,
+6,"packaging, battery, covers, thank you cards etc additional items ",,,,,,,,,
+7, (marketplaces as per sales data) (skipped till OMS),,,,,,,,,
+8,Inbound in different marketplaces,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,"NOTE ONLY THESE THREE SHEETS ARE IMPORTANT FOR MAPPING 
+
+USE MSKUS WITH SKUS and COMBO SKUS to map to sales data (SKUS)
+",,,,,,
